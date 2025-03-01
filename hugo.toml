@@ -1,0 +1,4 @@
+baseURL = 'https://adamseifertpage.com/'
+languageCode = 'en-gb'
+title = 'Adam Seifert-Page'
+theme = 'ananke'
