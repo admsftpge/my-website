@@ -6,29 +6,18 @@
     <description>Recent content in Posts on Adam Seifert-Page</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Mar 2025 19:13:26 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post3</title>
-      <link>http://localhost:1313/posts/post3/</link>
-      <pubDate>Sat, 01 Mar 2025 19:13:26 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post3/</guid>
-      <description>&lt;p&gt;THIs is more content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Another Post</title>
-      <link>http://localhost:1313/posts/another-post/</link>
-      <pubDate>Sat, 01 Mar 2025 19:06:46 +0000</pubDate>
-      <guid>http://localhost:1313/posts/another-post/</guid>
-      <description>&lt;p&gt;This is some more test content. Just checking how it looks on the website.
-Adding more and more content. just trying to write anything to fill out this sections. tbh i could coprsnfdsjfks dfsmz fksdfkasjdnfaskfjn sadlkfjhaskdfjaskdfjhksad fhkasd hfsadkfjh aksjdhfkas ksajdhf ksadjfh aksjh fkjashdf kjsahdfk ajshdfkjasdhf kasjdfhas kdjfh asdkjfh sakjdf hkjas dfkjsa jfjkasdf asdjhf jksd fjdf hjd fjd fjdhf jdhfj dshfjhjsdkafdhfkasdjlfhb vkjdsbhkasdjhbf sakdfjhsajk dfhlaksdjfh aklsfhj&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 01 Mar 2025 14:48:01 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
+      <title></title>
+      <link>http://localhost:1313/posts/the-traveler-and-the-axe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-traveler-and-the-axe/</guid>
+      <description>&lt;h1 id=&#34;the-traveller-and-the-axe&#34;&gt;The Traveller and the Axe&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;There was once a traveller who found himself lost in the woods as night began to fall. He knew he would not last the night without a fire.&lt;/p&gt;
+&lt;p&gt;In a clearing he found an old axe, its blade dull from years of neglect.&lt;/p&gt;
+&lt;p&gt;“I must chop wood for the fire,” he thought. “But first, I must prepare the axe.”&lt;/p&gt;
+&lt;p&gt;And so, he set to work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
