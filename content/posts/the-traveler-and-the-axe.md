@@ -4,9 +4,6 @@ date: 2024-03-03T12:00:00Z
 draft: false
 ---
 
-# The Traveller and the Axe
----
-
 There was once a traveller who found himself lost in the woods as night began to fall. He knew he would not last the night without a fire.
 
 In a clearing he found an old axe, its blade dull from years of neglect.
