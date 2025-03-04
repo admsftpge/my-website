@@ -8,7 +8,7 @@ There was once a traveller who found himself lost in the forest as night began t
 
 In a clearing, he found an old axe lying in the dirt, its blade dull from years of neglect.
 
-“I must chop wood for the fire,” he thought. “But first, I must prepare the axe.” And so, he set to work.
+“I must chop wood for the fire” he thought. “But first, I must prepare the axe.” And so, he set to work.
 
 He honed the blade, testing its sharpness against his finger. “Is it sharp enough?” he wondered. “Perhaps it needs to be even sharper.”
 
