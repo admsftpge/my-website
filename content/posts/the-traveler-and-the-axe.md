@@ -40,8 +40,6 @@ As the flames rose, the traveller sat beside him, warming his hands.
 
 ---
 
-The traveller turned to the old man and said, "I did everything to prepare, yet I have no firewood. What did I do wrong?"
-
 The old man smiled. “To prepare endlessly is to never begin. The sharpest axe has no use if it doesn't swing.”
 
 The traveller sat in thought, watching the fire crackle before him. He wouldn't fear the cold again.
