@@ -7,9 +7,9 @@ export default function Home() {
       <nav className="md:hidden flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-800">
         <Link href="/" className="font-medium">Home</Link>
         <div className="flex space-x-4">
-          <Link href="/blog" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
+          {/* <Link href="/blog" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
             Writing
-          </Link>
+          </Link> */}
           <a href="https://github.com/admsftpge" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
             GitHub
           </a>
@@ -24,9 +24,9 @@ export default function Home() {
         <Link href="/" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
           Home
         </Link>
-        <Link href="/blog" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
+        {/* <Link href="/blog" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
           Writing
-        </Link>
+        </Link> */}
         <a href="https://github.com/admsftpge" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors">
           GitHub
         </a>
